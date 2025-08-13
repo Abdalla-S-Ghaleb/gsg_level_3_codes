@@ -8,9 +8,11 @@ Given a number of days n (1 ≤ n ≤ 10), print all possible sequences of daily
 
 subject to the constraint that no two consecutive days have the same activity.
 
+
 #Input 
 
 A single integer n (1 ≤ n ≤ 10).
+
 
 #Output 
 
@@ -20,9 +22,11 @@ After listing all schedules, print a final line: COUNT: X where X is the total n
 
 generated. 
 
+
 Example run: 
 
 2 
+
 Football Running 
 
 Football Swimming 
